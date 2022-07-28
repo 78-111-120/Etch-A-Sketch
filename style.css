@@ -1,0 +1,43 @@
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4em;
+}
+
+/*input {
+  display: block;
+margin: auto;
+}*/
+
+#container {
+  height: 900px;
+  width: 900px;
+  margin: auto;
+  display: grid;
+  justify-content: center;
+}
+
+
+main div {
+  background: white;
+  /*padding: 1em;*/
+  border: solid 1px black;
+}
+
+#grid-btn2 {
+  color: white;
+  background: black;
+  padding: 5px 57px;
+  text-decoration: none;
+  border: none;
+}
+
+div p {
+  font-size: 1em;
+}
